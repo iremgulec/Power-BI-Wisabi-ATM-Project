@@ -1,0 +1,5 @@
+﻿TransactionTypeID,TransactionTypeName
+1,Withdrawal
+2,Deposit
+3,Balance Inquiry
+4,Transfer

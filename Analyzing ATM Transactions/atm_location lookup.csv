@@ -1,0 +1,51 @@
+﻿LocationID,Location Name,No of ATMs,City,State,Country
+LA-001,Wisabi Bank HQ,7,Lagos,Lagos,Nigeria
+LA-002,Victoria Island ATM,3,Lagos,Lagos,Nigeria
+LA-003,Ikeja ATM,3,Lagos,Lagos,Nigeria
+LA-004,Lekki ATM,3,Lagos,Lagos,Nigeria
+LA-005,Surulere ATM,3,Lagos,Lagos,Nigeria
+LA-006,Festac ATM,3,Lagos,Lagos,Nigeria
+LA-007,Apapa ATM,3,Lagos,Lagos,Nigeria
+LA-008,Ikorodu ATM,3,Lagos,Lagos,Nigeria
+LA-009,Yaba ATM,3,Lagos,Lagos,Nigeria
+LA-010,Maryland ATM,3,Lagos,Lagos,Nigeria
+LA-011,Ajah ATM,3,Lagos,Lagos,Nigeria
+LA-012,Oshodi ATM,3,Lagos,Lagos,Nigeria
+LA-013,Ogba ATM,3,Lagos,Lagos,Nigeria
+LA-014,Ikoyi ATM,3,Lagos,Lagos,Nigeria
+LA-015,Agege ATM,3,Lagos,Lagos,Nigeria
+KN-001,Wisabi Bank Kano Branch ATM,5,Kano,Kano,Nigeria
+KN-002,Sabon Gari ATM,2,Kano,Kano,Nigeria
+KN-003,Fagge ATM,2,Kano,Kano,Nigeria
+KN-004,Nassarawa ATM,2,Kano,Kano,Nigeria
+KN-005,Kofar Ruwa ATM,2,Kano,Kano,Nigeria
+KN-006,Tarauni ATM,2,Kano,Kano,Nigeria
+KN-007,Dala ATM,2,Kano,Kano,Nigeria
+KN-008,Gwale ATM,2,Kano,Kano,Nigeria
+KN-009,Ungogo ATM,2,Kano,Kano,Nigeria
+KN-010,Warawa ATM,2,Kano,Kano,Nigeria
+FC-001,FCT Abuja ATM,5,Abuja,Federal Capital Territory,Nigeria
+FC-002,Kubwa ATM,2,Abuja,Federal Capital Territory,Nigeria
+FC-003,Garki ATM,2,Abuja,Federal Capital Territory,Nigeria
+FC-004,Maitama ATM,2,Abuja,Federal Capital Territory,Nigeria
+FC-005,Wuse ATM,2,Abuja,Federal Capital Territory,Nigeria
+FC-006,Lugbe ATM,2,Abuja,Federal Capital Territory,Nigeria
+EN-001,Enugu ATM,5,Enugu,Enugu,Nigeria
+EN-002,Nsukka ATM,2,Nsukka,Enugu,Nigeria
+EN-003,Agbani ATM,2,Enugu,Enugu,Nigeria
+EN-004,Abakpa ATM,2,Enugu,Enugu,Nigeria
+EN-005,Awgu ATM,2,Awgu,Enugu,Nigeria
+EN-006,Oji River ATM,2,Oji,Enugu,Nigeria
+EN-007,Udi ATM,2,Udi,Enugu,Nigeria
+EN-008,Nkanu ATM,2,Nkanu,Enugu,Nigeria
+EN-009,Emene ATM,2,Enugu,Enugu,Nigeria
+RI-001,Port Harcourt ATM,5,Port Harcourt,Rivers State,Nigeria
+RI-002,Bonny ATM,2,Bonny,Rivers State,Nigeria
+RI-003,Okrika ATM,2,Okrika,Rivers State,Nigeria
+RI-004,Obio-Akpor ATM,2,Obio-Akpor,Rivers State,Nigeria
+RI-005,Eleme ATM,2,Eleme,Rivers State,Nigeria
+RI-006,Emohua ATM,2,Emohua,Rivers State,Nigeria
+RI-007,Gokana ATM,2,Gokana,Rivers State,Nigeria
+RI-008,Oyigbo ATM,2,Oyigbo,Rivers State,Nigeria
+RI-009,Ahoada ATM,2,Ahoada,Rivers State,Nigeria
+RI-010,Opobo ATM,2,Opobo,Rivers State,Nigeria
